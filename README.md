@@ -8,4 +8,4 @@
 - Для анализа данных использую Python (библиотеки pandas, numpy, matplotlib, scipy, seaborn), SQL, Excel.
 - Также работаю с такими инструментами визуализации данных как [Tableau](https://goo.su/cXHuKm) и [DataLens](https://datalens.yandex/2l4adxv80ffur>).
 
-  Связаться со мной можно в телеграм(https://t.me/natalia_korr) или по почте(natasha-kuzneczova-95@mail.ru).
+  Связаться со мной можно в Telegram (https://t.me/natalia_korr) или по почте (natasha-kuzneczova-95@mail.ru).
